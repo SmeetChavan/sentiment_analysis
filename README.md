@@ -4,7 +4,7 @@ Task for joining the Data Scientist Internship with Indegenous
 Requirements :
 1) Install vaderSentiment , command : pip install vaderSentiment
 2) Install requests , command : pip install requests
-3) (Optional) Install json , command : pip install json 
+3) (Optional) Install json , command : pip install json  (Usually Pre-installed with Python)
 
 Fetching latest news from newsapi 
 

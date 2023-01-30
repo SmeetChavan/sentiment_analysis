@@ -1,4 +1,4 @@
-# Sentiment analysis using VaderSentiment
+# Sentiment analysis of news articles using VaderSentiment
 Task for joining the Data Scientist Internship with Indegenous
 
 Requirements :

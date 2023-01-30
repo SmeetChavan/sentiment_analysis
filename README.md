@@ -1,4 +1,4 @@
-# Sentiment_analysis
+# Sentiment analysis using VaderSentiment
 Task for joining the Data Scientist Internship with Indegenous
 
 Requirements :
